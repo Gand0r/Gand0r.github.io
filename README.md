@@ -1,5 +1,8 @@
 # INDRA SETIAWAN
 
+
+<img src="LRM_EXPORT_44480362749678_20200219_173505716.jpeg" width="128"/>
+
 * * *
 ### Tentang Saya
 Saya Indra Setiawan, karyawan swasta yang bekerja di salah satu perusahaan retail di Batam. Tidak suka pekerjaan yang bertele-tele, lebih senang dengan pekerjaan yang cepat dan efisien.
