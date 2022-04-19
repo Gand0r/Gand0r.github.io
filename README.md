@@ -5,10 +5,18 @@
 
 * * *
 ### Tentang Saya
-Saya Indra Setiawan, karyawan swasta yang bekerja di salah satu perusahaan retail di Batam. Tidak suka pekerjaan yang bertele-tele, lebih senang dengan pekerjaan yang cepat dan efisien.
-* * *
-### Pekerjaan
-Saya biasa bekerja sebagai Teknisi Komputer atau kalau dalam pekerjaan disebut EDP.
+Perkenalkan, nama saya indra setiawan berdomisili di Batam. Page ini hanya bertujuan untuk belajar git, github dan jekyll. Jika ingin mengetahui tentang hal-hal tesebut mari kita belajar bersama, karena saya juga belum bisa :joy: Saat ini saya bekerja di salah satu perusahaan yang bergerak di bidang retail, adapun pengalaman kerja saya sebelumnya :
+
+1. PT. Unisem - Batam sebagai Equipment Engineer
+2. PT. Satnusa Persada, Tbk sebagai PE (Process Engineer)
+3. PT. TEC Indonesia (Siswa PKL atau Magang)
+4. NICO Net sebagai OP Warnet
+5. Kerja serabutan seperti Tukang Galon, Jualan Tape, Helper Listrik di galangan kapal dan lain lain, yang penting halal dan tidak menipu orang.
+6. Sales barang-barang stationary
+7. PT. HI-Tech sebagai Teknisi
+
+Pernah bersekolah sampai tamat SMK Jurusan Elektronika Industri.
+
 * * *
 ### Prestasi di perusahaan
 Saya pernah mengerjakan semua jenis pekerjaan di bagian Dept saya, sampai saat ini perusahaan masih memakai program sederhana yang saya buat, server yang pernah saya pasang juga masih di gunakan di salah satu kawasan industri. Boleh di coba yang penting uang nya cocok 😁😁
