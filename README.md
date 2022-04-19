@@ -1,7 +1,7 @@
 # INDRA SETIAWAN
 
 
-<img src="LRM_EXPORT_44480362749678_20200219_173505716.jpeg" width="600"/>
+> <img src="LRM_EXPORT_44480362749678_20200219_173505716.jpeg" width="600"/>
 
 * * *
 ### Tentang Saya
