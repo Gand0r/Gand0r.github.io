@@ -11,7 +11,7 @@ Saya Indra Setiawan, karyawan swasta yang bekerja di salah satu perusahaan retai
 Saya biasa bekerja sebagai Teknisi Komputer atau kalau dalam pekerjaan disebut EDP.
 * * *
 ### Prestasi di perusahaan
-Saya pernah mengerjakan semua jenis pekerjaan di bagian Dept saya, sampai saat ini perusahaan masih memakai program sederhana yang saya buat, server yang pernah saya pasang juga masih di gunakan di salah satu kawasan industri.
+Saya pernah mengerjakan semua jenis pekerjaan di bagian Dept saya, sampai saat ini perusahaan masih memakai program sederhana yang saya buat, server yang pernah saya pasang juga masih di gunakan di salah satu kawasan industri. Boleh di coba yang penting uang nya cocok 😁😁
 * * *
 ### Kelemahan
 Saya tidak suka pekerjaan yang bertele-tele.
