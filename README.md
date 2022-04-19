@@ -17,7 +17,7 @@ Pernah bersekolah sampai tamat SMK Jurusan Elektronika Industri.
 
 * * *
 ### Prestasi di perusahaan
-Saya pernah mengerjakan semua jenis pekerjaan di bagian Dept saya, sampai saat ini perusahaan masih memakai program sederhana yang saya buat, server yang pernah saya pasang juga masih di gunakan di salah satu kawasan industri. Boleh di coba yang penting uang nya cocok 😁😁
+Saya pernah mengerjakan semua jenis pekerjaan di bagian Dept saya, sampai saat ini perusahaan masih memakai program sederhana yang saya buat, server yang pernah saya pasang juga masih di gunakan di salah satu kawasan industri. Boleh di coba yang penting uang nya cocok 😁
 * * *
 ### Kelemahan
 Saya tidak suka pekerjaan yang bertele-tele.
