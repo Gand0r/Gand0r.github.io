@@ -13,6 +13,7 @@ Perkenalkan, nama saya indra setiawan berdomisili di Batam. Page ini hanya bertu
 5. Kerja serabutan seperti Tukang Galon, Jualan Tape, Helper Listrik di galangan kapal dan lain lain, yang penting halal dan tidak menipu orang.
 6. Sales barang-barang stationary
 7. PT. HI-Tech sebagai Teknisi
+
 Pernah bersekolah sampai tamat SMK Jurusan Elektronika Industri.
 
 * * *
