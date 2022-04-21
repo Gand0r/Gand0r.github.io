@@ -23,7 +23,7 @@ Saya pernah mengerjakan semua jenis pekerjaan di bagian Dept saya, sampai saat i
 Saya tidak suka pekerjaan yang bertele-tele.
 * * *
 ### Catatan kecilku
-Tempat menyimpan [Catatanku](https://github.com/Gand0r/Catatanku)
+Ini adalah [Catatanku](https://github.com/Gand0r/Catatanku) sebagai tempat menyimpan rumus atau syntax.
 
 * * *
 ![](https://github-profile-trophy.vercel.app/?username=Gand0r)
