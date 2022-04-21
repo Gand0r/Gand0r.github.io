@@ -49,7 +49,7 @@ Saya tidak suka pekerjaan yang bertele-tele
 
 <!-- Links to your social media accounts -->
 
-[1]: https://github.com/Gand0r/Catatanku
+[1]: http://gand0r.my.id/Catatanku/
 [2]: https://www.linkedin.com/mwlite/in/indrasetiawanbatam
 
 
