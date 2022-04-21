@@ -20,11 +20,7 @@ Pernah bersekolah sampai tamat SMK Jurusan Elektronika Industri.
 Saya pernah mengerjakan semua jenis pekerjaan di bagian Dept saya, sampai saat ini perusahaan masih memakai program sederhana yang saya buat, server yang pernah saya pasang juga masih di gunakan di salah satu kawasan industri. Boleh di coba yang penting uang nya cocok 😁
 * * *
 ### Kelemahan
-Saya tidak suka pekerjaan yang bertele-tele.
-* * *
-### Catatan kecilku
-Ini adalah [Catatanku](https://github.com/Gand0r/Catatanku) sebagai tempat menyimpan rumus atau syntax.
-
+Saya tidak suka pekerjaan yang bertele-tele
 * * *
 ![](https://github-profile-trophy.vercel.app/?username=Gand0r)
 * * *
@@ -74,15 +70,18 @@ Ini adalah [Catatanku](https://github.com/Gand0r/Catatanku) sebagai tempat menyi
 ![](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 * * *
 [![LinkedIn][1.2]][2]
+[![Catatanku][1.1]][1]
 * * *
 ![](https://visitor-badge.glitch.me/badge?page_id=Gand0r.Gand0r)
 
 <!-- Icons -->
 
+[1.1]: https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black
 [1.2]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 
 <!-- Links to your social media accounts -->
 
+[1]: https://github.com/Gand0r/Catatanku
 [2]: https://www.linkedin.com/mwlite/in/indrasetiawanbatam
 
 
