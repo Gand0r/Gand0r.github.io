@@ -22,7 +22,7 @@ Saya pernah mengerjakan semua jenis pekerjaan di bagian Dept saya, sampai saat i
 ### Kelemahan
 Saya tidak suka pekerjaan yang bertele-tele.
 
-[Catatan kecilku](https://github.com/Gand0r/Gand0r.github.io/wiki/myland)
+[Catatan kecilku](https://github.com/Gand0r/Catatanku)
 
 * * *
 ![](https://github-profile-trophy.vercel.app/?username=Gand0r)
