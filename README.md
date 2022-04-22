@@ -54,12 +54,3 @@ Saya tidak suka pekerjaan yang bertele-tele
 
 
 > Hidup adalah perkara mengumpulkan kisah demi kisah. Lalu kita rajut menjadi bagian, yang disebut KENANGAN.
-
-
-### Catatanku
-* * *
-> Mungkin semua orang bisa copy dan paste, tapi tidak semua orang bisa menganalisa dan solving problem.
-
-* * *
-Cara mengganti Dns dengan menggunakan prompt
-> blblanla
