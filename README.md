@@ -32,25 +32,21 @@ Saya tidak suka pekerjaan yang bertele-tele
 * * *
 <!-- Actual text -->
 ![](https://img.shields.io/badge/circleci-343434?style=for-the-badge&logo=circleci&logoColor=white)
-![](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
-![](https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white)
 ![](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
 ![](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 * * *
 [![LinkedIn][1.2]][2]
-[![Catatanku][1.1]][1]
+
 * * *
 ![](https://visitor-badge.glitch.me/badge?page_id=Gand0r.Gand0r) | [![CircleCI](https://circleci.com/gh/Gand0r/Gand0r.github.io/tree/main.svg?style=svg)](https://circleci.com/gh/Gand0r/Gand0r.github.io/tree/main)
 <!-- Icons -->
 
-[1.1]: https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black
 [1.2]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 
 <!-- Links to your social media accounts -->
 
-[1]: https://gand0r.github.io/catatanku/
 [2]: https://www.linkedin.com/mwlite/in/indrasetiawanbatam
 
 > Hidup adalah perkara mengumpulkan kisah demi kisah. Lalu kita rajut menjadi bagian, yang disebut KENANGAN
