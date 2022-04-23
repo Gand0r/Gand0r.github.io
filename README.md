@@ -44,6 +44,9 @@ Saya tidak suka pekerjaan yang bertele-tele
 * * *
 ![](https://visitor-badge.glitch.me/badge?page_id=Gand0r.Gand0r)
 
+* * *
+[![CircleCI](https://circleci.com/gh/Gand0r/Gand0r.github.io/tree/main.svg?style=svg)](https://circleci.com/gh/Gand0r/Gand0r.github.io/tree/main)
+
 <!-- Icons -->
 
 [1.1]: https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black
