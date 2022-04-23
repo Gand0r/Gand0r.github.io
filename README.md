@@ -1,4 +1,3 @@
-### PageQ
 * * *
 [Back to home](https://gand0r.my.id/) | [catatanku](https://gand0r.github.io/catatanku)
 * * *
