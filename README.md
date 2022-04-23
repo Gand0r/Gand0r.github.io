@@ -42,7 +42,7 @@ Saya tidak suka pekerjaan yang bertele-tele
 [![LinkedIn][1.2]][2]
 [![Catatanku][1.1]][1]
 * * *
-![](https://visitor-badge.glitch.me/badge?page_id=Gand0r.Gand0r)
+![](https://visitor-badge.glitch.me/badge?page_id=Gand0r.Gand0r) | [![CircleCI](https://circleci.com/gh/Gand0r/Gand0r.github.io/tree/main.svg?style=svg)](https://circleci.com/gh/Gand0r/Gand0r.github.io/tree/main)
 <!-- Icons -->
 
 [1.1]: https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black
@@ -54,5 +54,3 @@ Saya tidak suka pekerjaan yang bertele-tele
 [2]: https://www.linkedin.com/mwlite/in/indrasetiawanbatam
 
 > Hidup adalah perkara mengumpulkan kisah demi kisah. Lalu kita rajut menjadi bagian, yang disebut KENANGAN
-
-[![CircleCI](https://circleci.com/gh/Gand0r/Gand0r.github.io/tree/main.svg?style=svg)](https://circleci.com/gh/Gand0r/Gand0r.github.io/tree/main)
