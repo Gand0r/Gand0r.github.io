@@ -1,7 +1,8 @@
 ### PageQ
-
-> <img src="LRM_EXPORT_44480362749678_20200219_173505716.jpeg" width="300"/>
-
+* * *
+[Back to home](https://gand0r.my.id/) | [catatanku](https://gand0r.github.io/catatanku)
+* * *
+> <img src="LRM_EXPORT_44480362749678_20200219_173505716.jpeg" width="200"/>
 * * *
 ### Tentang Saya
 Perkenalkan, nama saya indra setiawan berdomisili di Batam. Page ini hanya bertujuan untuk belajar git, github dan jekyll. Jika ingin mengetahui tentang hal-hal tesebut mari kita belajar bersama, karena saya juga belum bisa 😅 Saat ini saya bekerja di salah satu perusahaan yang bergerak di bidang retail, adapun pengalaman kerja saya sebelumnya :
