@@ -1,5 +1,5 @@
 * * *
-|[HOME](https://gand0r.my.id/) || [Catatanku](https://gand0r.github.io/catatanku)|
+| [Home](https://gand0r.my.id/) | [Catatanku](https://gand0r.github.io/catatanku) | [Tentangku](https://gand0r.github.io/)
 * * *
 > <img src="LRM_EXPORT_44480362749678_20200219_173505716.jpeg" width="200"/>
 * * *
