@@ -6,7 +6,7 @@
 * * *
 
 ### Pengenalan diri
-Perkenalkan, nama saya indra setiawan berdomisili di Batam. Page ini hanya bertujuan untuk belajar git, github dan jekyll. Jika ingin mengetahui tentang hal-hal tesebut mari kita belajar bersama, karena saya juga belum bisa 😅 Saat ini saya bekerja di salah satu perusahaan yang bergerak di bidang retail, adapun pengalaman kerja saya sebelumnya :
+Perkenalkan, nama saya indra setiawan berdomisili di Batam. Page ini hanya bertujuan untuk belajar git, github dan jekyll. Jika ingin mengetahui tentang hal-hal tesebut mari kita belajar bersama, karena saya juga belum bisa 😅 Pengalaman kerja saya sebelumnya :
 1. PT. Unisem - Batam sebagai Equipment Engineer
 2. PT. Satnusa Persada, Tbk sebagai PE (Process Engineer)
 3. PT. TEC Indonesia (Siswa PKL atau Magang)
@@ -15,14 +15,25 @@ Perkenalkan, nama saya indra setiawan berdomisili di Batam. Page ini hanya bertu
 6. Sales barang-barang stationary
 7. PT. HI-Tech sebagai Teknisi
 
-Pernah bersekolah sampai tamat SMK Jurusan Elektronika Industri.
+* * *
+### Pendidikan
+1. TK MII Slinga, Purbalingga, Jawa Tengah
+2. SD MII Slinga, Purbalingga, Jawa Tengah
+3. SDN 039 (011) Baloi Persero, Batam
+4. SMPN 06 Sei Panas, Batam
+5. SMKN 01 Tembesi, Batam. Tamatan 2009
 
 * * *
-### Prestasi di perusahaan
-Saya pernah mengerjakan semua jenis pekerjaan di bagian Dept saya, sampai saat ini perusahaan masih memakai program sederhana yang saya buat, server yang pernah saya pasang juga masih di gunakan di salah satu kawasan industri. Boleh di coba yang penting uang nya cocok 😁
+### Pekerjaan
+Saat ini Saya bekerja di PT Indomarco Prismatama (Indomaret Group) Cabang Batam, adapun detailnya sebagai berikut :
+- 2015 - 2018 : EDP Service, EDP OPR, EDP Logistik, EDP Network & Server
+- 2018 - 2021 : EDP OPR
+- 2022 - now  : EDP Network
+
 * * *
 ### Kelemahan
 Saya tidak suka pekerjaan yang bertele-tele
+
 * * *
 ![](https://github-profile-trophy.vercel.app/?username=Gand0r)
 * * *
