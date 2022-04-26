@@ -6,7 +6,7 @@
 * * *
 
 ### Pengenalan diri
-Perkenalkan, nama saya indra setiawan berdomisili di Batam. Page ini hanya bertujuan untuk belajar git, github dan jekyll. Jika ingin mengetahui tentang hal-hal tesebut mari kita belajar bersama, karena saya juga belum bisa 😅 Pengalaman kerja saya sebelumnya :
+Perkenalkan, nama saya indra setiawan berdomisili di Batam. Page ini hanya bertujuan untuk belajar git, github dan jekyll. Jika ingin mengetahui tentang hal-hal tesebut mari kita belajar bersama, karena saya juga belum bisa 😅 Pengalaman kerja saya sebelumnya
 1. PT. Unisem - Batam sebagai Equipment Engineer
 2. PT. Satnusa Persada, Tbk sebagai PE (Process Engineer)
 3. PT. TEC Indonesia (Siswa PKL atau Magang)
@@ -25,7 +25,7 @@ Perkenalkan, nama saya indra setiawan berdomisili di Batam. Page ini hanya bertu
 
 * * *
 ### Pekerjaan
-Saat ini saya bekerja di PT Indomarco Prismatama (Indomaret Group) Cabang Batam, adapun detailnya sebagai berikut :
+Saat ini saya bekerja di PT Indomarco Prismatama (Indomaret Group) Cabang Batam, adapun detailnya sebagai berikut
 * 2015 - 2018 sebagai EDP Service, EDP OPR, EDP Logistik, EDP Network & Server
 * 2018 - 2021 sebagai EDP OPR
 * 2021 - saat ini sebagai EDP Network
