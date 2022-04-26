@@ -21,11 +21,11 @@ Perkenalkan, nama saya indra setiawan berdomisili di Batam. Page ini hanya bertu
 2. SD MII Slinga, Purbalingga, Jawa Tengah
 3. SDN 039 (011) Baloi Persero, Batam
 4. SMPN 06 Sei Panas, Batam
-5. SMKN 01 Tembesi, Batam. Tamatan 2009
+5. SMKN 01 Tembesi, Batam
 
 * * *
 ### Pekerjaan
-Saat ini Saya bekerja di PT Indomarco Prismatama (Indomaret Group) Cabang Batam, adapun detailnya sebagai berikut:
+Saat ini saya bekerja di PT Indomarco Prismatama (Indomaret Group) Cabang Batam, adapun detailnya sebagai berikut :
 - 2015 - 2018 : EDP Service, EDP OPR, EDP Logistik, EDP Network & Server
 - 2018 - 2021 : EDP OPR
 - 2022 - now  : EDP Network
