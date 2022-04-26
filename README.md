@@ -25,7 +25,7 @@ Perkenalkan, nama saya indra setiawan berdomisili di Batam. Page ini hanya bertu
 
 * * *
 ### Pekerjaan
-Saat ini Saya bekerja di PT Indomarco Prismatama (Indomaret Group) Cabang Batam, adapun detailnya sebagai berikut :
+Saat ini Saya bekerja di PT Indomarco Prismatama (Indomaret Group) Cabang Batam, adapun detailnya sebagai berikut:
 - 2015 - 2018 : EDP Service, EDP OPR, EDP Logistik, EDP Network & Server
 - 2018 - 2021 : EDP OPR
 - 2022 - now  : EDP Network
