@@ -53,7 +53,7 @@ Saya tidak suka pekerjaan yang bertele-tele
 [![LinkedIn][1.2]][2]
 
 * * *
-![](https://visitor-badge.glitch.me/badge?page_id=Gand0r.Gand0r) | [![CircleCI](https://circleci.com/gh/Gand0r/Gand0r.github.io/tree/main.svg?style=svg)](https://circleci.com/gh/Gand0r/Gand0r.github.io/tree/main)
+![](https://visitor-badge.glitch.me/badge?page_id=Gand0r.Gand0r) | [![CircleCI](https://circleci.com/gh/Gand0r/Gand0r.github.io/tree/main.svg?style=svg)](https://circleci.com/gh/Gand0r/Gand0r.github.io/tree/main) | <a href='https://ko-fi.com/M4M3AGKQC' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
 <script src='https://storage.ko-fi.com/cdn/scripts/overlay-widget.js'></script>
 <script>
