@@ -55,6 +55,8 @@ Saya tidak suka pekerjaan yang bertele-tele
 * * *
 ![](https://visitor-badge.glitch.me/badge?page_id=Gand0r.Gand0r) | [![CircleCI](https://circleci.com/gh/Gand0r/Gand0r.github.io/tree/main.svg?style=svg)](https://circleci.com/gh/Gand0r/Gand0r.github.io/tree/main) | <a href='https://ko-fi.com/M4M3AGKQC' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
+* * *
+
 <script src='https://storage.ko-fi.com/cdn/scripts/overlay-widget.js'></script>
 <script>
   kofiWidgetOverlay.draw('gand0r', {
@@ -65,6 +67,7 @@ Saya tidak suka pekerjaan yang bertele-tele
   });
 </script>
 
+* * *
 <!-- Icons -->
 
 [1.2]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
