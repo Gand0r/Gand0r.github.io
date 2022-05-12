@@ -34,7 +34,7 @@ Saat ini saya bekerja di PT Indomarco Prismatama (Indomaret Group) Cabang Batam,
 
 * * *
 ### Kelemahan
-Saya tidak suka pekerjaan yang bertele-tele
+Semua orang pasti punya kelemahan & kekurangan
 
 * * *
 ![](https://github-profile-trophy.vercel.app/?username=Gand0r)
