@@ -3,11 +3,7 @@
 * * *
 
 ### Pengenalan diri
-Perkenalkan, nama saya indra setiawan berdomisili di Batam. Page ini hanya bertujuan untuk belajar git, github dan jekyll. Jika ingin mengetahui tentang hal-hal tesebut mari kita belajar bersama, karena saya juga belum bisa 😅 Pengalaman kerja saya sebelumnya
-1.
-2.
-3.
-4.
+Perkenalkan, nama saya indra setiawan berdomisili di Batam. Page ini hanya bertujuan untuk belajar git, github dan jekyll. Jika ingin mengetahui tentang hal-hal tesebut mari kita belajar bersama, karena saya juga belum bisa 😅
 
 * * *
 ### Pendidikan
