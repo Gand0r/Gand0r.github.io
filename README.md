@@ -2,9 +2,6 @@
 | [Home](https://gand0r.github.io/home) | [Catatan](https://gand0r.github.io/catatanku) | [Tentang](https://gand0r.github.io/) |
 * * *
 
-> <img src="LRM_EXPORT_44480362749678_20200219_173505716.jpeg" width="200"/>
-* * *
-
 ### Pengenalan diri
 Perkenalkan, nama saya indra setiawan berdomisili di Batam. Page ini hanya bertujuan untuk belajar git, github dan jekyll. Jika ingin mengetahui tentang hal-hal tesebut mari kita belajar bersama, karena saya juga belum bisa 😅 Pengalaman kerja saya sebelumnya
 1.
