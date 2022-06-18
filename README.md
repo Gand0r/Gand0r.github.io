@@ -7,30 +7,17 @@
 
 ### Pengenalan diri
 Perkenalkan, nama saya indra setiawan berdomisili di Batam. Page ini hanya bertujuan untuk belajar git, github dan jekyll. Jika ingin mengetahui tentang hal-hal tesebut mari kita belajar bersama, karena saya juga belum bisa 😅 Pengalaman kerja saya sebelumnya
-
-1. PT. Unisem - Batam sebagai Equipment Engineer
-2. PT. Satnusa Persada, Tbk sebagai PE (Process Engineer)
-3. PT. TEC Indonesia (Siswa PKL atau Magang)
-4. NICO Net sebagai OP Warnet
-5. Kerja serabutan seperti Tukang Galon, Jualan Tape, Helper Listrik di galangan kapal dan lain lain, yang penting halal dan tidak menipu orang.
-6. Sales barang-barang stationary
-7. PT. HI-Tech sebagai Teknisi
+1.
+2.
+3.
+4.
 
 * * *
 ### Pendidikan
-1. TK MII Slinga, Purbalingga, Jawa Tengah
-2. SD MII Slinga, Purbalingga, Jawa Tengah
-3. SDN 039 (011) Baloi Persero, Batam
-4. SMPN 06 Sei Panas, Batam
-5. SMKN 01 Tembesi, Batam
-
-* * *
-### Pekerjaan
-Saat ini saya bekerja di PT Indomarco Prismatama (Indomaret Group) Cabang Batam, adapun detailnya sebagai berikut
-
-* 2015 - 2018 sebagai EDP Service, EDP OPR, EDP Logistik, EDP Network & Server
-* 2018 - 2021 sebagai EDP OPR
-* 2021 - saat ini sebagai EDP Network
+1.
+2.
+3.
+4.
 
 * * *
 ### Kelemahan
@@ -50,9 +37,6 @@ Semua orang pasti punya kelemahan & kekurangan
 ![](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
 ![](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
-* * *
-### Akun sosial media
-[![LinkedIn][1.2]][2]
 
 * * *
 ### Donasi
@@ -71,14 +55,5 @@ Semua orang pasti punya kelemahan & kekurangan
     'floating-chat.donateButton.text-color': '#fff'
   });
 </script>
-
-* * *
-<!-- Icons -->
-
-[1.2]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-
-<!-- Links to your social media accounts -->
-
-[2]: https://www.linkedin.com/mwlite/in/indrasetiawanbatam
 
 > Hidup adalah perkara mengumpulkan kisah demi kisah. Lalu kita rajut menjadi bagian, yang disebut KENANGAN
