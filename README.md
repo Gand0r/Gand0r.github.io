@@ -49,4 +49,8 @@ Semua orang pasti punya kelemahan & kekurangan
   });
 </script>
 
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+<div class="badge-base LI-profile-badge" data-locale="in_ID" data-size="medium" data-theme="dark" data-type="HORIZONTAL" data-vanity="gand0r" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://id.linkedin.com/in/gand0r?trk=profile-badge">Indra Setiawan</a></div>
+
+
 > Hidup adalah perkara mengumpulkan kisah demi kisah. Lalu kita rajut menjadi bagian, yang disebut KENANGAN
