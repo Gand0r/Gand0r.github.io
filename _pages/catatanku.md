@@ -1,11 +1,7 @@
 ---
 permalink: /catatanku/
-title: "Catatan"
+title: "Catatanku"
 ---
-
-* * *
-| [Home](https://gand0r.github.io/) | [Catatan](https://gand0r.github.io/catatanku) | [Tentang](https://gand0r.github.io/about) |
-* * *
 
 ### Catatanku
 
