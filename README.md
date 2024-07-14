@@ -1,6 +1,6 @@
 # Minimal Mistakes remote theme starter
 
-Tekan [**Use this template**](https://github.com/mmistakes/mm-github-pages-starter/generate) untuk mempercepat penggunaan [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes).
+Tekan [**Gunakan Template Ini**](https://github.com/mmistakes/mm-github-pages-starter/generate) untuk mempercepat penggunaan [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes).
 
 Berisi konfigurasi dasar untuk situs anda:
 
