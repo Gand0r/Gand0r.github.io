@@ -3,10 +3,6 @@ permalink: /about/
 title: "About"
 ---
 
-* * *
-| [Home](https://gand0r.github.io/) | [Catatan](https://gand0r.github.io/catatanku) | [Tentang](https://gand0r.github.io/about) |
-* * *
-
 ### Pengenalan diri
 Perkenalkan, nama saya indra setiawan berdomisili di Batam. Page ini hanya bertujuan untuk belajar git, github dan jekyll. Jika ingin mengetahui tentang hal-hal tesebut mari kita belajar bersama, karena saya juga belum bisa 😅
 
