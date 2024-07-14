@@ -1,1 +1,5 @@
+---
+permalink: /catatanku/
+title: "Catatan"
+---
 
