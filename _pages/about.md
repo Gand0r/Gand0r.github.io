@@ -1,9 +1,9 @@
 ---
 permalink: /about/
-title: "About"
+title: "Tengan saya"
 ---
 
-### Tentang saya
+
 Berdomisili di Batam, page ini hanya bertujuan untuk belajar dan pengembangan diri saya.
 
 * * *
