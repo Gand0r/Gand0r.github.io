@@ -1,10 +1,9 @@
 ---
 permalink: /download/
-title: "Aplikasi yang biasa saya gunakan"
+title: "Download Corner"
 ---
 
 
----
 ---
 
 
