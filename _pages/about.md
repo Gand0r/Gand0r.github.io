@@ -3,6 +3,7 @@ permalink: /about/
 title: "Tentang Saya"
 ---
 
+* * *
 
 Berdomisili di Batam, page ini hanya bertujuan untuk belajar dan pengembangan diri saya.
 
