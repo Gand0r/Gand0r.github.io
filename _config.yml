@@ -86,15 +86,4 @@ defaults:
   - scope:
       path: "/about/"
       type: liquid
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
       
-  # _pages
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: single
-      author_profile: true
