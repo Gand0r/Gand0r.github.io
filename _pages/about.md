@@ -9,8 +9,9 @@ Berdomisili di Batam, page ini hanya bertujuan untuk belajar dan pengembangan di
 
 * * *
 ### Hobby
-Kumpul bersama keluarga, jalan-jalan bersama anak dan istri
-
+- Kumpul bersama keluarga, jalan-jalan bersama anak dan istri
+- Ngobrol dengan teman, luar biasa mendengarkan kisah sukses dari rekan-rekan semuanya, banyak yang bisa di pelajari dari pengalaman orang lain.
+  
 * * *
 ![](https://github-profile-trophy.vercel.app/?username=Gand0r)
 * * *
