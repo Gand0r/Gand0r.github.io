@@ -97,7 +97,7 @@ defaults:
       read_time: true
       comments: true
       share: true
-      related: true
+      related: false
   # _pages
   - scope:
       path: "_pages"
@@ -108,8 +108,7 @@ defaults:
 
 category_archive:
   type: liquid
-  path: /categories/
+  path: /about/
 tag_archive:
   type: liquid
-  path: /tags/
-      
+  path: /about/
