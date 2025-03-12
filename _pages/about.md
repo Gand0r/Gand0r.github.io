@@ -1,6 +1,6 @@
 ---
 permalink: /about/
-title: "Tengan saya"
+title: "Tentang Saya"
 ---
 
 
