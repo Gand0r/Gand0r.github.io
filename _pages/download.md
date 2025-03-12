@@ -3,4 +3,4 @@ permalink: /download/
 title: "Download"
 ---
 
-[Download Winbox]("/assets/winbox.exe")
+Download [Winbox64]("/assets/winbox.exe")
