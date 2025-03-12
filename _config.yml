@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: IseSpace
+title: INDRA SETIAWAN
 email: mb4tr7c61@mozmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Indra Setiawan"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/indrasetiawan.jpg"
   bio    : "Why So Serious ?"
   links:
     - label: "Website"
@@ -91,7 +91,7 @@ defaults:
   # _posts
   - scope:
       path: "_pages"
-      type: posts
+      type: liquid
     values:
       layout: single
       author_profile: true
