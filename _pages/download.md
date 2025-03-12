@@ -1,6 +1,6 @@
 ---
 permalink: /download/
-title: "Download"
+title: "Aplikasi yang biasa saya gunakan"
 ---
 
 Download [Winbox64]("/assets/winbox.exe")
